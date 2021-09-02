@@ -41,10 +41,12 @@ public class UiManager : MonoBehaviour
     {
         mainPanel.Disable();
 
-        if(GameManager.instance.data.IsTutorialShowed)
-            gamePanel.EnableSmoothly();
-        else
-            tutorialPanel.EnableSmoothly();
+        // if(GameManager.instance.data.IsTutorialShowed)
+        //     gamePanel.EnableSmoothly();
+        // else
+        //     tutorialPanel.EnableSmoothly();
+
+        gamePanel.EnableSmoothly();
     }
 
     private void Success()
