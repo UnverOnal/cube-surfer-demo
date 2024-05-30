@@ -6,8 +6,7 @@ Sticked with the original game as far as possible.
 
 ***
 
-Apk of the game is in the Apk folder and,
-a gameplay video is in the GamePlayVideo Folder(both video itself and the link of it).
+A gameplay video is in the GamePlayVideo Folder(both video itself and the link of it).
 
 ***
 
